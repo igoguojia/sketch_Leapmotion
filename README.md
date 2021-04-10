@@ -6,6 +6,8 @@
 完成了对星空闪烁，彗星运动，飞船加速度运动，随机柏林噪声抖动以及粒子效果的模拟。
 艺工交叉，完成了创意编程。
 
+*gif图 太大了加载很慢*
+
 ![](https://github.com/igoguojia/sketch_Leapmotion/blob/main/gif/leapmotion.gif)
 
 b站视频(画质略差,细节体现不到位)
