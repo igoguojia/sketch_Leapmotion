@@ -4,6 +4,7 @@
 *.zip
 *.docx
 *.avi
+*.mp4
 gif/leapmotion.gif filter=lfs diff=lfs merge=lfs -text
 
 applet

@@ -8,7 +8,9 @@
 
 ![](https://github.com/igoguojia/sketch_Leapmotion/blob/main/gif/leapmotion.gif)
 
+b站视频(画质略差,细节体现不到位)
 
+https://www.bilibili.com/video/BV1gU4y1h7RC/
 
 # 设计思路
 
