@@ -1,4 +1,10 @@
 .DS_Store
+
+# User-specific files
+*.zip
+*.docx
+*.avi
+
 applet
 application.linux-arm64
 application.linux-armv6hf
